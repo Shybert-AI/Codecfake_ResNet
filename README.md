@@ -1,9 +1,9 @@
 # The Codecfake Dataset and Countermeasures for the Universally Detection of Deepfake Audio
-Baseline code: https://github.com/xieyuankun/Codecfake
+# Baseline code: https://github.com/xieyuankun/Codecfake
 
 ![image](https://github.com/Shybert-AI/Codecfake_ResNet/assets/82042336/962a4bc7-e7a1-4d78-ae23-00a3c29d92f4)
 
-博客：https://blog.csdn.net/weixin_43509698/article/details/139812979
+# 博客：https://blog.csdn.net/weixin_43509698/article/details/139812979
 
 1.下载finvcup9th_1st_ds5数据集，解压到data目录下  
 2.执行data_prepare.py 脚本生成训练的csv文件，修改finvcup9th_1st_ds5_valid_data.csv为finvcup9th_1st_ds5_dev_data.csv  
